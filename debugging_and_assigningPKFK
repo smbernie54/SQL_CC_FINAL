@@ -1,0 +1,46 @@
+Use HR_CORE
+Go
+
+--needed to make Column "Employee_ID" not null and change it's size for all tables to match in order to establish foreign keys
+--(a mistake I made when creating the ETL package was making the column different sizes)
+
+ALTER TABLE HR_Employee_info
+ALTER COLUMN Employee_ID varchar(50) NOT NULL;
+
+ALTER TABLE Contracts_SOLD
+ALTER COLUMN Employee_ID varchar(50) NOT NULL;
+
+ALTER TABLE HR_Employee_Retention
+ALTER COLUMN Employee_ID varchar(50) NOT NULL;
+
+ALTER TABLE HR_Leadership
+ALTER COLUMN Employee_ID varchar(50) NOT NULL;
+
+ALTER TABLE HR_PromotionPath
+ALTER COLUMN Employee_ID varchar(50) NOT NULL;
+
+
+--Alter table HR_Employee_info
+--Add Primary Key (Employee_ID);
+
+
+
+Alter table Contracts_SOLD
+Add Foreign Key (Employee_ID) REFERENCES HR_Employee_info(Employee_ID);
+
+Alter table HR_Leadership
+Add Foreign Key (Employee_ID) REFERENCES HR_Employee_info(Employee_ID);
+
+Alter table HR_Employee_Retention
+Add Foreign Key (Employee_ID) REFERENCES HR_Employee_info(Employee_ID);
+
+Alter table HR_PromotionPath
+Add Foreign Key(Employee_ID) References HR_Employee_info(Employee_ID);
+
+Go
+
+
+/*Select * from HR_Employee_info
+alter table HR_Employee_info
+Drop Column Email_Contact (I did not need this column)
+*/
