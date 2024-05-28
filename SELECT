@@ -1,0 +1,7 @@
+USE HR_CORE 
+GO
+
+SELECT Contracts_SOLD.Employee_ID, Contracts_SOLD.Company_NAME,Contracts_SOLD.Type_of_Sale_Desc,Contracts_SOLD.Amount_Sold_For,  HR_PromotionPath.Employee_ID, HR_PromotionPath.Contracts_Sold
+From Contracts_SOLD
+Join HR_PromotionPath on Contracts_SOLD.Employee_ID=HR_PromotionPath.Employee_ID
+Order by Contracts_Sold desc
