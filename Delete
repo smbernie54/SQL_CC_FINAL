@@ -1,0 +1,10 @@
+USE HR_CORE
+GO
+
+Delete From HR_Employee_info where Employee_ID = '3691D'
+
+--Checking to see if Employee_ID Exists, which it does not
+Select * from HR_Employee_info where Employee_ID = '3691D'
+
+--Check all data in table
+Select * from HR_Employee_info
