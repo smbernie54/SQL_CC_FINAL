@@ -1,0 +1,51 @@
+Employee_ID,Employee_FN,Employee_LN,Department,Gender,PayGrade,Satisfaction,Promotions,Infractions,Infractions_Desc
+5678B,Emily,Smith,Sales,Female,Low,0.38,Y,Y,Failure to complete required trainings on time
+9012C,Michael,Johnson,Finance,Male,Low,0.8,Y,Y,More than 3 unexcused latenesses
+3456D,Sarah,Williams,Operations,Non-Binary,Low,0.11,Y,Y,Failure to complete required trainings on time
+7890E,Jacob,Jones,Research and Development,Other,Low,0.72,N,Y,Unexcused absence
+2345F,Olivia,Brown,Compliance,Male,Low,0.37,N,N,NA
+6789G,Christopher,Davis,Talent,Female,High,0.41,N,N,NA
+0123H,Ava,Miller,Customer Service,Other,High,0.9,Y,N,NA
+4567I,Matthew,Wilson,Marketing,Non-Binary,High,0.92,Y,N,NA
+8901J,Emma,Moore,Human Resources,Female,High,0.89,Y,Y,Failure to complete required trainings on time
+1357K,Joshua,Taylor,Information Technology,Other,High,0.42,N,Y,Failure to complete required trainings on time
+2468L,Isabella,Anderson,Marketing,Male,Top,0.45,N,Y,Foul language
+3691M,Daniel,Thomas,Finance,Non-Binary,Top,0.11,N,Y,Bullying employees
+4802N,Sophia,Jackson,Sales,Other,Top,0.84,Y,N,NA
+5793O,Alexander,White,Information Technology,Female,Top,0.41,Y,N,NA
+6824P,Mia,Harris,Human Resources,Male,Top,0.36,Y,N,NA
+7935Q,Ethan,Martin,Operations,Non-Binary,Medium,0.38,N,N,NA
+8046R,Charlotte,Thompson,Compliance,Other,Medium,0.45,N,Y,Bullying employees
+9157S,William,Garcia,Research and Development,Male,Medium,0.78,N,Y,Bullying employees
+0268T,Amelia,Martinez,Customer Service,Non-Binary,Medium,0.45,Y,Y,Foul language
+1379U,James,Robinson,Talent,Female,Medium,0.76,Y,Y,More than 3 unexcused latenesses
+2480V,Harper,Clark,Finance,Other,Low,0.11,Y,N,NA
+3591W,Benjamin,Rodriguez,Operations,Non-Binary,Low,0.38,N,N,NA
+4602X,Evelyn,Lewis,Sales,Male,Low,0.09,N,N,NA
+5713Y,Samuel,Lee,Compliance,Other,Low,0.46,N,N,NA
+6824Z,Abigail,Walker,Marketing,Female,Low,0.4,Y,Y,Failure to complete required trainings on time
+7935A,David,Hall,Information Technology,Male,High,0.89,Y,Y,Foul language
+8046B,Emily,Allen,Talent,Other,High,0.82,Y,Y,Foul language
+9157C,Joseph,Young,Human Resources,Non-Binary,High,0.4,N,Y,Foul language
+0268D,Elizabeth,Hernandez,Research and Development,Male,High,0.41,N,N,NA
+1379E,Logan,King,Customer Service,Female,High,0.38,N,N,NA
+2480F,Ella,Wright,Operations,Other,Top,0.09,Y,N,NA
+3591G,Anthony,Lopez,Marketing,Non-Binary,Top,0.45,Y,N,NA
+4602H,Avery,Hill,Sales,Female,Top,0.4,Y,Y,Unexcused absence
+5713I,John,Scott,Information Technology,Other,Top,0.45,N,Y,Unexcused absence
+6824J,Scarlett,Green,Human Resources,Male,Top,0.84,N,Y,Unexcused absence
+7935K,Ryan,Adams,Compliance,Non-Binary,Medium,0.1,N,Y,Unexcused absence
+8046L,Grace,Baker,Customer Service,Other,Medium,0.38,Y,N,NA
+9157M,Ethan,Gonzalez,Finance,Male,Medium,0.45,Y,N,NA
+0268N,Madison,Nelson,Research and Development,Female,Medium,0.11,Y,N,NA
+1379O,Andrew,Carter,Talent,Other,Medium,0.41,N,N,NA
+2480P,Chloe,Mitchell,Operations,Non-Binary,Low,0.87,N,Y,Failure to complete required trainings on time
+3591Q,Matthew,Perez,Marketing,Female,Low,0.45,N,Y,Unexcused absence
+4602R,Victoria,Roberts,Sales,Male,Low,0.4,Y,Y,Data Breach
+5713S,Nathan,Turner,Human Resources,Other,Low,0.1,Y,Y,Failure to complete required trainings on time
+6824T,Lily,Phillips,Compliance,Non-Binary,Low,0.09,Y,N,NA
+7935U,Samuel,Campbell,Information Technology,Other,High,0.84,N,N,NA
+8046V,Addison,Parker,Talent,Female,High,0.4,N,N,NA
+9157W,Gabriel,Evans,Finance,Male,High,0.57,N,N,NA
+0268X,Natalie,Edwards,Customer Service,Non-Binary,High,0.4,Y,Y,Unexcused absence
+1234A,Lucas,Collins,Research and Development,Female,High,0.73,Y,Y,More than 3 unexcused latenesses

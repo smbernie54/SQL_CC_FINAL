@@ -1,0 +1,51 @@
+Employee_ID,Employee_FN,Employee_LN,Address,State,City,Zipcode,Phone_Contact,Email_Contact,Emergency_Contact,Emerg_contact_relationship to emp,Emerg_contact_phnum
+5678B,Emily,Smith,123 Main Street,New York,New York,10001,(212) 555-0101,,Emma Smith,Spouse,(201) 555-0101
+9012C,Michael,Johnson,456 Elm Avenue,New York,New York,10002,(315) 555-0202,,Liam Johnson,Parent,(201) 555-0202
+3456D,Sarah,Williams,789 Oak Lane,New York,New York,10003,(347) 555-0303,,Olivia Williams,Domestic Partner,(201) 555-0303
+7890E,Jacob,Jones,101 Maple Drive,New York,New York,10004,(516) 555-0404,,Noah Brown,Guardian,(201) 555-0404
+2345F,Olivia,Brown,246 Pine Street,New York,Albany,10005,(518) 555-0505,,Ava Jones,Child,(201) 555-0505
+6789G,Christopher,Davis,369 Cedar Avenue,New York,New York,10006,(585) 555-0606,,William Davis,Friend,(201) 555-0606
+0123H,Ava,Miller,482 Birch Lane,New York,New York,10007,(607) 555-0707,,Isabella Miller,Parent,(201) 555-0707
+4567I,Matthew,Wilson,555 Willow Court,New York,Buffalo,10008,(631) 555-0808,,James Wilson,Spouse,(201) 555-0808
+8901J,Emma,Moore,777 Walnut Street,New York,New York,10009,(646) 555-0909,,Sophia Moore,Guardian,(201) 555-0909
+1357K,Joshua,Taylor,888 Chestnut Avenue,New York,New York,10010,(716) 555-1010,,Oliver Taylor,Child,(201) 555-1010
+2468L,Isabella,Anderson,999 Spruce Lane,New York,New York,10011,(718) 555-1111,,Mia Anderson,Friend,(201) 555-1111
+3691M,Daniel,Thomas,111 Pinecrest Drive,New York,New York,10012,(845) 555-1212,,Benjamin Thomas,Domestic Partner,(201) 555-1212
+4802N,Sophia,Jackson,222 Oakwood Road,New York,New York,10013,(914) 555-1313,,Charlotte Jackson,Spouse,(201) 555-1313
+5793O,Alexander,White,333 Maple Avenue,New York,Buffalo,10014,(917) 555-1414,,Elijah White,Parent,(201) 555-1414
+6824P,Mia,Harris,444 Elm Street,New York,New York,10015,(212) 555-1515,,Amelia Harris,Child,(201) 555-1515
+7935Q,Ethan,Martin,555 Birch Lane,New York,New York,10016,(315) 555-1616,,Lucas Martin,Friend,(201) 555-1616
+8046R,Charlotte,Thompson,666 Cedar Avenue,New York,Syracuse,10017,(347) 555-1717,,Harper Thompson,Domestic Partner,(201) 555-1717
+9157S,William,Garcia,777 Willow Court,New York,New York,10018,(516) 555-1818,,Henry Garcia,Guardian,(201) 555-1818
+0268T,Amelia,Martinez,888 Walnut Street,New York,New York,10019,(518) 555-1919,,Evelyn Martinez,Spouse,(201) 555-1919
+1379U,James,Robinson,999 Chestnut Avenue,New York,Albany,10020,(585) 555-2020,,Alexander Robinson,Parent,(201) 555-2020
+2480V,Harper,Clark,123 Oakwood Road,New York,New York,10021,(607) 555-2121,,Abigail Clark,Child,(201) 555-2121
+3591W,Benjamin,Rodriguez,456 Maple Avenue,New York,New York,10022,(631) 555-2222,,Michael Lewis,Friend,(201) 555-2222
+4602X,Evelyn,Lewis,789 Elm Street,New York,New York,10023,(646) 555-2323,,Emily Lee,Guardian,(201) 555-2323
+5713Y,Samuel,Lee,101 Birch Lane,New York,New York,10024,(716) 555-2424,,Daniel Walker,Domestic Partner,(201) 555-2424
+6824Z,Abigail,Walker,246 Cedar Avenue,New York,New York,10025,(718) 555-2525,,Elizabeth Hall,Parent,(201) 555-2525
+7935A,David,Hall,369 Willow Court,New York,New York,10026,(845) 555-2626,,Ethan Allen,Child,(201) 555-2626
+8046B,Emily,Allen,482 Walnut Street,New York,Nyack,10027,(914) 555-2727,,Sofia Young,Guardian,(201) 555-2727
+9157C,Joseph,Young,555 Chestnut Avenue,New York,New York,10028,(917) 555-2828,,Jacob King,Friend,(201) 555-2828
+0268D,Elizabeth,Hernandez,777 Oakwood Road,New York,New York,10029,(212) 555-2929,,Avery Scott,Spouse,(201) 555-2929
+1379E,Logan,King,888 Maple Avenue,New York,New York,10030,(315) 555-3030,,Logan Phillips,Domestic Partner,(201) 555-3030
+2480F,Ella,Wright,999 Elm Street,New York,New York,10031,(347) 555-3131,,Ella Hill,Parent,(201) 555-3131
+3591G,Anthony,Lopez,111 Birch Lane,New York,New York,10032,(516) 555-3232,,Jackson Murphy,Child,(201) 555-3232
+4602H,Avery,Hill,222 Cedar Avenue,New York,Elmsford,10033,(518) 555-3333,,Scarlett Baker,Guardian,(201) 555-3333
+5713I,John,Scott,333 Willow Court,New York,New York,10034,(585) 555-3434,,Sebastian Cook,Friend,(201) 555-3434
+6824J,Scarlett,Green,444 Walnut Street,New York,White Plains,10035,(607) 555-3535,,Grace Parker,Parent,(201) 555-3535
+7935K,Ryan,Adams,555 Chestnut Avenue,New York,New York,10036,(631) 555-3636,,Aiden Stewart,Spouse,(201) 555-3636
+8046L,Grace,Baker,666 Oakwood Road,New York,New York,10037,(646) 555-3737,,Lily Flores,Child,(201) 555-3737
+9157M,Ethan,Gonzalez,777 Maple Avenue,New York,New York,10038,(716) 555-3838,,Matthew Green,Guardian,(201) 555-3838
+0268N,Madison,Nelson,888 Elm Street,New York,New York,10039,(718) 555-3939,,Chloe Mitchell,Friend,(201) 555-3939
+1379O,Andrew,Carter,999 Birch Lane,New York,New York,10040,(845) 555-4040,,David Carter,Domestic Partner,(201) 555-4040
+2480P,Chloe,Mitchell,123 Cedar Avenue,New York,Catskill,10041,(914) 555-4141,,Zoey Ramirez,Child,(201) 555-4141
+3591Q,Matthew,Perez,456 Willow Court,New York,Catskill,10042,(917) 555-4242,,Joseph Nguyen,Spouse,(201) 555-4242
+4602R,Victoria,Roberts,789 Walnut Street,New York,Catskill,10043,(212) 555-4343,,Penelope Gonzales,Guardian,(201) 555-4343
+5713S,Nathan,Turner,101 Chestnut Avenue,New York,Catskill,10044,(315) 555-4444,,Carter Rivera,Friend,(201) 555-4444
+6824T,Lily,Phillips,246 Oakwood Road,New York,New York,10045,(347) 555-4545,,Victoria Kim,Domestic Partner,(201) 555-4545
+7935U,Samuel,Campbell,369 Maple Avenue,New York,Utica,10046,(516) 555-4646,,Gabriel Patel,Child,(201) 555-4646
+8046V,Addison,Parker,482 Elm Street,New York,Utica,10047,(518) 555-4747,,Madison Price,Parent,(201) 555-4747
+9157W,Gabriel,Evans,555 Birch Lane,New York,Utica,10048,(585) 555-4848,,Samuel Reyes,Guardian,(201) 555-4848
+0268X,Natalie,Edwards,666 Cedar Avenue,New York,Utica,10049,(607) 555-4949,,Layla Long,Spouse,(201) 555-4949
+1234A,Lucas,Collins,777 Willow Court,New York,Utica,10050,(631) 555-5050,,John Cooper,Friend,(201) 555-5050

@@ -1,0 +1,51 @@
+Manager_ID,Manager_FN,Manager_LN,Employee_ID,Role,Tier,YRS_Completed
+12340,Emily,Smith,5678B,Event Management Director,1,1
+56780,Michael,Johnson,9012C,Operations Manager,2,2
+90120,Sarah,Williams,3456D,Marketing Manager,3,3
+34560,Jacob,Jones,7890E,Sales Manager,4,4
+78900,Olivia,Brown,2345F,Human Resources Manager,1,5
+23450,Christopher,Davis,6789G,Finance Manager,2,6
+67890,Ava,Miller,0123H,Project Manager,3,7
+11230,Matthew,Wilson,4567I,Product Manager,4,8
+45670,Emma,Moore,8901J,IT Manager,1,9
+89010,Joshua,Taylor,1357K,Business Development Manager,2,10
+13570,Isabella,Anderson,2468L,Customer Service Manager,3,11
+24680,Daniel,Thomas,3691M,Supply Chain Manager,4,12
+36910,Sophia,Jackson,4802N,Quality Assurance Manager,1,13
+48020,Alexander,White,5793O,Research and Development Manager,2,14
+57930,Mia,Harris,6824P,Logistics Manager,3,15
+68240,Ethan,Martin,7935Q,Procurement Manager,4,16
+79350,Charlotte,Thompson,8046R,Risk Manager,1,17
+80460,William,Garcia,9157S,Compliance Manager,2,18
+91570,Amelia,Martinez,0268T,Administration Manager,3,19
+12680,James,Robinson,1379U,Strategic Planning Manager,4,20
+13790,Harper,Clark,2480V,Training and Development Manager,1,1
+24800,Benjamin,Rodriguez,3591W,Facilities Manager,2,2
+35910,Evelyn,Lewis,4602X,Public Relations Manager,3,3
+46020,Samuel,Lee,5713Y,Brand Manager,4,4
+57130,Abigail,Walker,6824Z,Production Manager,1,5
+68240,David,Hall,7935A,Inventory Manager,2,6
+79350,Emily,Allen,8046B,Event Manager,3,7
+80460,Joseph,Young,9157C,Retail Manager,4,8
+91570,Elizabeth,Hernandez,0268D,Legal Manager,1,9
+22680,Logan,King,1379E,Corporate Communications Manager,2,10
+13790,Ella,Wright,2480F,Talent Acquisition Manager,3,11
+24800,Anthony,Lopez,3591G,Sustainability Manager,4,12
+35910,Avery,Hill,4602H,Information Security Manager,1,13
+46020,John,Scott,5713I,Data Analytics Manager,2,14
+57130,Scarlett,Green,6824J,Health and Safety Manager,3,15
+68240,Ryan,Adams,7935K,Program Manager,4,16
+79350,Grace,Baker,8046L,Customer Success Manager,1,17
+80460,Ethan,Gonzalez,9157M,Community Manager,2,18
+91570,Madison,Nelson,0268N,Investment Manager,3,19
+32680,Andrew,Carter,1379O,Brand Strategy Manager,4,20
+13790,Chloe,Mitchell,2480P,Digital Marketing Manager,1,1
+24800,Matthew,Perez,3591Q,E-commerce Manager,2,2
+35910,Victoria,Roberts,4602R,Operations Support Manager,3,3
+46020,Nathan,Turner,5713S,Risk and Compliance Manager,4,4
+57130,Lily,Phillips,6824T,Chief Information Security Officer (CISO),1,5
+68240,Samuel,Campbell,7935U,Data Analytics Director,2,6
+79350,Addison,Parker,8046V,Health and Safety Coordinator,3,7
+80460,Gabriel,Evans,9157W,Program Director,4,8
+91570,Natalie,Edwards,0268X,Customer Success Director,1,9
+42680,Lucas,Collins,1234A,Community Engagement Manager,2,10

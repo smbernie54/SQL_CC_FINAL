@@ -1,0 +1,51 @@
+Employee_ID,Department,YRS_Completed,Contracts_Sold,Contracts_Sold_dt,Leadership_Y_N
+5678B,Sales,1,13,2021-07-25,Y
+9012C,Finance,2,22,2022-12-12,Y
+3456D,Operations,3,9,2023-04-06,Y
+7890E,Research and Development,4,19,2023-02-19,Y
+2345F,Compliance,5,7,2022-08-09,Y
+6789G,Talent,6,15,2021-06-14,Y
+0123H,Customer Service,7,6,2020-03-03,Y
+4567I,Marketing,8,11,2020-11-28,Y
+8901J,Human Resources,9,8,2021-10-11,Y
+1357K,Information Technology,10,25,2022-01-08,Y
+2468L,Marketing,11,16,2022-05-30,Y
+3691M,Finance,12,10,2020-09-17,Y
+4802N,Sales,13,24,2022-12-01,Y
+5793O,Information Technology,14,20,2021-02-10,Y
+6824P,Human Resources,15,18,2023-04-22,Y
+7935Q,Operations,16,5,2023-08-04,Y
+8046R,Compliance,17,14,2023-11-15,Y
+9157S,Research and Development,18,12,2021-01-25,Y
+0268T,Customer Service,19,21,2020-10-05,Y
+1379U,Talent,20,17,2023-03-11,Y
+2480V,Finance,1,23,2022-07-19,Y
+3591W,Operations,2,4,2021-09-30,Y
+4602X,Sales,3,8,2020-06-05,Y
+5713Y,Compliance,4,10,2023-12-16,Y
+6824Z,Marketing,5,19,2020-02-27,Y
+7935A,Information Technology,6,11,2020-11-08,Y
+8046B,Talent,7,22,2021-05-16,Y
+9157C,Human Resources,8,16,2023-08-28,Y
+0268D,Research and Development,9,9,2022-04-03,Y
+1379E,Customer Service,10,20,2022-10-23,Y
+2480F,Operations,11,15,2023-01-14,Y
+3591G,Marketing,12,6,2020-06-29,Y
+4602H,Sales,13,13,2021-03-20,Y
+5713I,Information Technology,14,7,2023-09-05,Y
+6824J,Human Resources,15,14,2021-07-08,Y
+7935K,Compliance,16,18,2020-12-30,Y
+8046L,Customer Service,17,21,2022-04-11,Y
+9157M,Finance,18,12,2022-02-03,Y
+0268N,Research and Development,19,5,2023-10-19,Y
+1379O,Talent,20,17,2021-08-01,Y
+2480P,Operations,1,23,2023-05-22,Y
+3591Q,Marketing,2,24,2021-01-04,Y
+4602R,Sales,3,4,2021-11-17,Y
+5713S,Human Resources,4,25,2023-06-12,Y
+6824T,Compliance,5,18,2020-03-09,Y
+7935U,Information Technology,6,19,2022-09-26,Y
+8046V,Talent,7,8,2023-07-01,Y
+9157W,Finance,8,9,2020-12-19,Y
+0268X,Customer Service,9,11,2020-02-16,Y
+1234A,Research and Development,10,20,2022-10-09,Y

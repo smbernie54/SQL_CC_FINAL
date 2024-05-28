@@ -1,0 +1,51 @@
+Company_NAME,Company_IN_USA_Y_N,Company_STATE,Company_County,Company_City,Company_Zipcode,Type_of_Sale_Desc,Managing EmployeeFNLN,Employee_ID,Amount_Sold_For,Contract_Sold_Date
+BrightVista Solutions,Y,California,Los Angeles County,Beverly Hills,90210,Software,Emily Smith,5678B,"$5,500 ",2022-02-01
+Evergreen Innovations,Y,New York,New York County,New York City,10001,Computer Replacement,Michael Johnson,9012C,"$6,000 ",2022-03-01
+Nova Dynamics,Y,Illinois,Cook County,Chicago,60601,Malware Protection,Sarah Williams,3456D,"$6,500 ",2020-04-01
+QuantumLeap Technologies,Y,Florida,Miami Dade County,Miami Beach,33139,Virus Scanning,Jacob Jones,7890E,"$7,000 ",2020-05-01
+SummitSpark Enterprises,Y,Texas,Harris County,Houston,77002,Software,Olivia Brown,2345F,"$7,500 ",2023-06-01
+ZenithCraft Industries,Y,Pennsylvania,Philadephia,Philadelphia,19103,Security Liason,Christopher Davis,6789G,"$8,000 ",2021-07-01
+BlueSky Ventures,Y,California,San Francisco County,San Francisco,94107,Legal Services,Ava Miller,0123H,"$8,500 ",2021-08-01
+HorizonWorks Inc.,Y,Washington D.C.,District of Columbia,DC,20001,Legal Services,Matthew Wilson,4567I,"$9,000 ",2022-09-01
+PrimeWave Solutions,Y,Georgia,Fulton County,Atlanta,30303,Software,Emma Moore,8901J,"$9,500 ",2020-10-01
+SilverLance Group,Y,California,Los Angeles County,Los Angegles,90024,Malware Protection,Joshua Taylor,1357K,"$10,000 ",2022-11-01
+TitanForge Technologies,Y,Illinois,Cook County,Chicago,60611,Software,Isabella Anderson,2468L,"$10,500 ",2021-12-01
+Visionary Edge Enterprises,Y,New York,New York County,New York City,10011,Consulting,Daniel Thomas,3691M,"$11,000 ",2020-01-01
+Apex Nexus Corporation,Y,Florida,Miami Dade County,Miami,33132,Consulting,Sophia Jackson,4802N,"$11,500 ",2020-02-01
+DeltaGrowth Systems,Y,Texas,Harris County,Houston,77007,Virus Scanning,Alexander White,5793O,"$12,000 ",2022-04-01
+InsightForge Solutions,Y,Pennsylvania,Philadephia,Philadelphia,19106,Computer Replacement,Mia Harris,6824P,"$12,500 ",2023-05-01
+PeakPerformance Inc.,Y,California,San Francisco County,San Francisco,94109,Malware Protection,Ethan Martin,7935Q,"$13,000 ",2021-12-01
+Skyline Innovations,Y,Washington D.C.,District of Columbia,DC,20002,Malware Protection,Charlotte Thompson,8046R,"$13,500 ",2022-02-01
+AuroraTech Solutions,Y,Georgia,Fulton County,Atlanta,30305,Malware Protection,William Garcia,9157S,"$14,000 ",2021-06-01
+Harmony Enterprises,Y,California,Los Angeles County,Beverly Hills,90212,Virus Scanning,Amelia Martinez,0268T,"$14,500 ",2023-07-01
+NexusWave Inc.,Y,Illinois,Cook County,Chicago,60614,Virus Scanning,James Robinson,1379U,"$15,000 ",2023-05-01
+PhoenixRise Ventures,Y,New York,New York County,New York City,10023,Virus Scanning,Harper Clark,2480V,"$15,500 ",2023-08-01
+StellarSphere Corporation,Y,Florida,Miami Dade County,Miami Beach,33139,Security Liason,Benjamin Rodriguez,3591W,"$16,000 ",2020-09-01
+CatalystWorks Industries,Y,Texas,Harris County,Houston,77019,Security Liason,Evelyn Lewis,4602X,"$16,500 ",2021-04-01
+EliteVision Group,Y,Pennsylvania,Philadephia,Philadelphia,19109,Security Liason,Samuel Lee,5713Y,"$17,000 ",2023-05-01
+InnovateX Enterprises,Y,California,San Francisco County,San Francisco,94123,Security Liason,Abigail Walker,6824Z,"$17,500 ",2023-06-01
+OptimumSynergy Inc.,Y,Washington D.C.,District of Columbia,DC,20003,Legal Services,David Hall,7935A,"$18,000 ",2022-07-01
+QuantumBridge Technologies,Y,Georgia,Fulton County,Atlanta,30308,Legal Services,Emily Allen,8046B,"$18,500 ",2022-08-01
+Stratosphere Solutions,Y,California,Los Angeles County,Malibu,90265,Legal Services,Joseph Young,9157C,"$19,000 ",2021-10-01
+CoreFocus Industries,Y,Illinois,Cook County,Chicago,60618,Legal Services,Elizabeth Hernandez,0268D,"$19,500 ",2020-12-01
+FusionAxis Corporation,Y,New York,New York County,New York City,10036,Legal Services,Logan King,1379E,"$20,000 ",2022-12-01
+OrbitEdge Innovations,Y,Florida,Miami Dade County,Miami Beach,33140,Computer Replacement,Ella Wright,2480F,"$20,500 ",2023-12-01
+RadiantPeak Ventures,Y,Texas,Harris County,Houston,77024,Computer Replacement,Anthony Lopez,3591G,"$21,000 ",2021-03-01
+SynapseDynamics Inc.,Y,Pennsylvania,Philadephia,Philadelphia,19112,Software,Avery Hill,4602H,"$21,500 ",2021-07-01
+EmpowerWorks Enterprises,Y,California,San Francisco County,San Francisco,94129,Software,John Scott,5713I,"$22,000 ",2023-05-01
+InsightTrack Solutions,Y,Washington D.C.,District of Columbia,DC,20004,Software,Scarlett Green,6824J,"$22,500 ",2021-11-01
+ParadigmShift Industries,Y,Georgia,Fulton County,Atlanta,30309,Consulting,Ryan Adams,7935K,"$23,000 ",2021-07-01
+TechNova Corporation,Y,California,Los Angeles County,Pacific Palisades,90272,Consulting,Grace Baker,8046L,"$23,500 ",2022-08-01
+NexusPoint Ventures,Y,Illinois,Cook County,Chicago,60622,Consulting,Ethan Gonzalez,9157M,"$24,000 ",2022-09-01
+QuantumHorizon Solutions,Y,New York,New York County,New York City,10065,Legal Services,Madison Nelson,0268N,"$24,500 ",2021-10-01
+VisionCraft Enterprises,Y,Florida,Miami Dade County,Miami Beach,33141,Consulting,Andrew Carter,1379O,"$25,000 ",2022-11-01
+BrightPath Innovations,Y,Texas,Harris County,Houston,77027,Consulting,Chloe Mitchell,2480P,"$25,500 ",2022-12-01
+SynergySphere Inc.,Y,Pennsylvania,Philadephia,Philadelphia,19118,Consulting,Matthew Perez,3591Q,"$26,000 ",2023-02-01
+SparkWave Technologies,Y,California,San Francisco County,San Francisco,94133,Legal Services,Victoria Roberts,4602R,"$26,500 ",2022-04-01
+ZenithGrowth Group,Y,Washington D.C.,District of Columbia,DC,20005,Legal Services,Nathan Turner,5713S,"$27,000 ",2022-02-01
+TitanForge Innovations,Y,Georgia,Fulton County,Atlanta,30310,Legal Services,Lily Phillips,6824T,"$27,500 ",2020-06-01
+BlueHorizon Enterprises,Y,California,Los Angeles County,Venice,90291,Software,Samuel Campbell,7935U,"$28,000 ",2020-07-01
+HorizonBound Solutions,Y,Illinois,Cook County,Chicago,60625,Software,Addison Parker,8046V,"$28,500 ",2023-04-01
+NovaBridge Ventures,Y,New York,New York County,New York City,10075,Security Liason,Gabriel Evans,9157W,"$29,000 ",2023-09-01
+ApexWave Technologies,Y,Florida,Miami Dade County,Miami,33142,Security Liason,Natalie Edwards,0268X,"$29,500 ",2020-09-01
+SummitVision Inc.,Y,Texas,Harris County,Houston,77030,Virus Scanning,Lucas Collins,1234A,"$30,000 ",2020-11-01
