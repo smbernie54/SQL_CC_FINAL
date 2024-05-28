@@ -1,0 +1,76 @@
+Create Database HR_CORE
+GO
+
+Use HR_CORE
+GO
+
+Create Table HR_Employee_info (
+	Employee_ID varchar(50),
+	Employee_FN VARCHAR(11),
+	Employee_LN VARCHAR(9),
+	Address varchar(19),
+	State varchar(8),
+	City varchar(12),
+	Zipcode smallint,
+	Phone_Contact varchar(14),
+	Emergency_Contact VARCHAR(18),
+	[Emerg_contact_relationship to emp] VARCHAR(16),
+	Emerg_contact_phnum varchar(14),
+	Primary Key (Employee_ID)
+
+);
+
+Create Table HR_Leadership (
+	Manager_ID INT,
+	Manager_FN VARCHAR(11),
+	Manager_LN VARCHAR(9),
+	Employee_ID varchar(5),
+	Role VARCHAR(41),
+	Tier smallint,
+	YRS_Completed smallint NULL,
+	Primary Key (Manager_ID),
+	Foreign Key (Employee_ID) REFERENCES HR_Employee_info(Employee_ID)
+
+);
+
+Create Table HR_PromotionPath (
+	Employee_ID varchar(50) NOT NULL,
+	Department VARCHAR(24),
+	YRS_Completed SMALLINT,
+	Contracts_Sold SMALLINT NULL,
+	Contracts_Sold_dt DATETIME NULL,
+	Leadership_Y_N VARCHAR(1) NOT NULL,
+	Foreign Key (Employee_ID) REFERENCES HR_Employee_info(Employee_ID)
+);
+
+Create Table Contracts_SOLD (
+	Company_NAME VARCHAR(50),
+	Company_IN_USA_Y_N VARCHAR(50),
+	Company_STATE VARCHAR(50),
+	Company_County VARCHAR(50),
+	Company_City VARCHAR(50),
+	Company_Zipcode VARCHAR(50),
+	Type_of_Sale_Desc VARCHAR(50),
+	Managing_EmployeeFNLN VARCHAR(50),
+	Employee_ID varchar(50),
+	Amount_Sold_For Money,
+	Contract_Sold_Date DATETIME,
+	Primary Key (Company_NAME),
+	Foreign Key (Employee_ID) REFERENCES HR_Employee_info(Employee_ID)
+	
+	);
+
+Create Table HR_Employee_Retention (
+	Employee_ID varchar(5),
+	Employee_FN VARCHAR(11),
+	Employee_LN VARCHAR(9),
+	Department VARCHAR(24),
+	Gender VARCHAR(10),
+	PayGrade VARCHAR(6),
+	Satisfaction REAL,
+	Promotions varchar(1),
+	Infractions varchar(1),
+	Infractions_desc VARCHAR(46)
+	Foreign Key (Employee_ID) REFERENCES HR_Employee_info(Employee_ID)
+
+);
