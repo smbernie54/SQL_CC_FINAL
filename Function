@@ -1,0 +1,4 @@
+Use HR_CORE
+GO
+
+Select COUNT(Satisfaction) AS SatisfiedEmployees From HR_Employee_Retention Where Satisfaction > 0.5
