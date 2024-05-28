@@ -1,0 +1,11 @@
+USE HR_CORE
+GO
+
+INSERT INTO HR_Employee_info (Employee_ID, Employee_FN, Employee_LN, Address, State, City, Zipcode,Phone_Contact, Emergency_Contact, [Emerg_contact_relationship to emp], Emerg_contact_phnum)
+VALUES
+('0204Z', 'Steven', 'Wright', '10 W Elms Lane', 'New York', 'New York', '07021', '(525)124-0506', 'Emelia Lite', 'Friend', '(061)828-9294'),
+('3691D', 'Ashley', 'Simmons', '54 Walnut St', 'Cali', 'LA', '07022', '(456)375-0335', 'Kris P. Bacon', 'Spouse', '(718)524-6972'),
+('2185K', 'Norman', 'Marx', '1947 Rye Avenue', 'Virgina', 'MBeach','05781', '(766)341-0001', 'Mark Marx', 'Child', '(516)763-2424');
+
+-- Check to see if the Insertion worked (it did)
+Select * from HR_Employee_info
