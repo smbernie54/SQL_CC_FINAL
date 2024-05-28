@@ -1,0 +1,10 @@
+Use HR_CORE
+Go
+
+--Duplicate values were found, needed to delete and refresh SSIS Package
+TRUNCATE TABLE HR_Employee_info;
+Truncate table Contracts_SOLD;
+truncate Table HR_Employee_Retention;
+truncate table HR_Leadership;
+Truncate Table HR_PromotionPath;
+GO
