@@ -1,0 +1,9 @@
+USE HR_CORE
+GO
+
+UPDATE HR_Employee_Retention
+SET Satisfaction = 0.78, PayGrade= 'High'
+Where Employee_FN = 'Sarah';
+
+--Check 
+Select * from HR_Employee_Retention
