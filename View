@@ -1,0 +1,18 @@
+USE HR_CORE
+GO
+
+CREATE VIEW LeadershipPromotion AS
+
+SELECT 
+HR_Leadership.Manager_FN AS ManagerFN, 
+HR_Leadership.Manager_LN AS ManagerLN, 
+HR_Leadership.Role AS LeadershipTitle, 
+HR_PromotionPath.Department AS LeadershipDept, 
+HR_PromotionPath.Contracts_Sold AS ContractsSold
+FROM HR_PromotionPath
+JOIN HR_Leadership ON HR_PromotionPath.Employee_ID=HR_Leadership.Employee_ID
+WHERE Contracts_Sold > 5
+GO
+--View the newly created view 
+
+Select * from LeadershipPromotion
