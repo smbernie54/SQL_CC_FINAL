@@ -1,5 +1,5 @@
 # SQL_CC_FINAL
-CanCode Final project
+CanCode Final project - please view in "raw" format
 
   SQL is an effective language to use when analyzing data. The package "HRCorePackage" contains data that would be needed by a Human Resources department. the term "package" refers to the use of ETL (Extract, Transform, and Load) methodology using SSIS (SQL Server Inegration Services). In short, ETL is the method with which you can map data in a database, estabilishing definitions, limits, characteristics, and that is done throuugh SSIS, that serves as the liason to transport the data into a SQL Server (where one can access the data through an interface such as Microsoft SQL Server or Visual Studio Code). 
   
